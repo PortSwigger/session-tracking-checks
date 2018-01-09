@@ -5,7 +5,7 @@ RepoName: session-tracking-checks
 ScreenVersion: 1.0
 SerialVersion: 0
 MinPlatformVersion: 0
-ProOnly: False
+ProOnly: True
 Author: Brett Gervasoni, NCC Group
 ShortDescription: Checks for the presence of known session tracking sites
 EntryPoint: session-tracking-checks.py
